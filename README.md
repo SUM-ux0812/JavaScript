@@ -17,7 +17,4 @@
 
 ---
 
-<p align="center">
-✨ “Code. Learn. Repeat.” ✨
-</p>
 
