@@ -1,10 +1,10 @@
 # JavaScript
-<h1 align="center">💚 Hi, I'm Sumeyye!</h1>
+
 
 <p align="center">
 🌱 Learning <b>JavaScript</b> & building my first web projects.<br>
 💻 Practicing HTML, CSS, and DOM manipulation.<br>
-🚀 Growing a little every day!
+
 </p>
 
 ---
