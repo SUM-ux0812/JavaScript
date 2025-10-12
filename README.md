@@ -9,5 +9,8 @@
 
 ---
 
+# Projects in this repo
+- To-Do List — Add and delete daily tasks easily.  
+- Rock Paper Scissors— Play a JavaScript-powered game!
 
 
